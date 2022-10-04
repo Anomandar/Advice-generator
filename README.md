@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Github Url: [Github](https://github.com/Bill-Adepoju/Advice-generator)
-- Live Site URL: [Live site](https://bill-adepoju.github.io/Advice-generator/)
+- Github Url: [Github](https://github.com/Anomandar/Advice-generator)
+- Live Site URL: [Live site](https://anomandar.github.io/Advice-generator/)
 
 ## My process
 
